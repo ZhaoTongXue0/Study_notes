@@ -34,6 +34,18 @@
             }
           },
           {
+            "id": "9da13210bbd85c4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "d1a3df2b4d416bca",
             "type": "leaf",
             "state": {
@@ -58,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/SSR渲染【使用Next.js 服务端开发指南】.md"
+                "file": "README.md"
               }
             }
           },
@@ -150,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/SSR渲染【使用Next.js 服务端开发指南】.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/SSR渲染【使用Next.js 服务端开发指南】.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,10 +214,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "cd5102e9f5e3a86b",
+  "active": "9da13210bbd85c4a",
   "lastOpenFiles": [
-    "React目录.md",
     "src/SSR渲染【使用Next.js 服务端开发指南】.md",
+    "README.md",
+    "React目录.md",
     "src/SSR渲染原理.md",
     "src/React Router V6.md",
     "SSR渲染【手动实现】.md",
@@ -238,7 +251,6 @@
     "TypeScript",
     "JavaScript",
     "Welcome.md",
-    "测试工具【jest】.md",
-    "测试工具的使用.md"
+    "测试工具【jest】.md"
   ]
 }
