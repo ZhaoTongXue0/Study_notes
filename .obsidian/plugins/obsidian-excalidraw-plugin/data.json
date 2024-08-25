@@ -20,7 +20,7 @@
   "cropPrefix": "cropped_",
   "annotatePrefix": "annotated_",
   "annotatePreserveSize": false,
-  "previewImageType": "PNG",
+  "previewImageType": "SVG",
   "allowImageCache": true,
   "allowImageCacheInScene": true,
   "displayExportedImageIfAvailable": false,
@@ -96,7 +96,7 @@
     "libraryItems": []
   },
   "imageElementNotice": true,
-  "mdSVGwidth": 500,
+  "mdSVGwidth": 1000,
   "mdSVGmaxHeight": 800,
   "mdFont": "Virgil",
   "mdFontColor": "Black",
@@ -424,7 +424,7 @@
     }
   ],
   "numberOfCustomPens": 0,
-  "pdfScale": 4,
+  "pdfScale": 5,
   "pdfBorderBox": true,
   "pdfGapSize": 20,
   "pdfGroupPages": false,
@@ -439,7 +439,7 @@
     "COLOR": "#ff0000"
   },
   "embeddableMarkdownDefaults": {
-    "useObsidianDefaults": false,
+    "useObsidianDefaults": true,
     "backgroundMatchCanvas": false,
     "backgroundMatchElement": true,
     "backgroundColor": "#fff",

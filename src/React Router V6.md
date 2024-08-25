@@ -20,15 +20,24 @@ https://reactrouter.com/en/6.26.1
 
 ## Router包架构设计
 
-![[Router架构设计.excalidraw]]
+![[Router架构设计.excalidraw | 1000]]
 
 ## `BrowserRouter`原理
 
-![[BrowserRouter.excalidraw]]
-
+![[BrowserRouter.excalidraw | 1000]]
 
 
 ---
+> 单页面和多页面的区别：
+
+单页面：只有一个HTML文件，通过js去控制。==（SPA工程项目）==
+- 好处：页面跳转不用刷新，性能会好一些，用户体验也相对较好。可以实现代码复用
+- 缺点：对SEO不友好
+
+多页面：多页面就是多个HTML文件，通过window.location互相跳转。
+- 好处：对SEO更友好，隔离性好，每一个页面都是一个独立的项目。
+- 缺点：每个页面跳转都要刷新，重新加载资源，性能会比较慢
+
 > 打包出来的文件，路由不能跳转？
 
 如果是`createBrowserRouter`需要在`nginx`上添加
