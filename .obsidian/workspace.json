@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React.md",
+                "file": "src/git.md",
                 "mode": "preview",
                 "source": true
               }
@@ -149,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "src/git.md"
+              }
             }
           },
           {
@@ -158,6 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "src/git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,6 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "src/git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,13 +212,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d955383cb5f1068f",
+  "active": "1377d0052ab2fc01",
   "lastOpenFiles": [
+    "前端工程化.md",
+    "打包工具.md",
     "React.md",
     "README.md",
     "JavaScript.md",
-    "前端工程化.md",
-    "打包工具.md",
     "src/git.md",
     "Excalidraw/Git操作流程.md",
     "src/package.json剖析.md",
