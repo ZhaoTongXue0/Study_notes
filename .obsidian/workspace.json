@@ -4,71 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "f4e5de8ab517cdc4",
+        "id": "4c42e27b64265e59",
         "type": "tabs",
         "children": [
           {
-            "id": "992e4368668d8668",
+            "id": "22a4a3918e769acd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端工程化.md",
+                "file": "JavaScript.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "0e078c40b1fca8d6",
+            "id": "324cd2d83efba7fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/包管理工具.md",
+                "file": "src/this、闭包与作用域.md",
                 "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "642701f3f2e61131",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端工程化.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f1410279fe7fbecb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端工程化.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1377d0052ab2fc01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/git.md",
-                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,7 +44,7 @@
       {
         "id": "fee92bff052398c1",
         "type": "tabs",
-        "dimension": 28.51485148514851,
+        "dimension": 35.182250396196515,
         "children": [
           {
             "id": "d955383cb5f1068f",
@@ -95,7 +59,7 @@
       {
         "id": "54be6fa268424296",
         "type": "tabs",
-        "dimension": 71.48514851485149,
+        "dimension": 64.81774960380349,
         "children": [
           {
             "id": "6458d720c92b5fb7",
@@ -134,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 286.5
   },
   "right": {
     "id": "ad079a11d4e819a4",
@@ -150,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/git.md"
+                "file": "src/this、闭包与作用域.md"
               }
             }
           },
@@ -160,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/git.md",
+                "file": "src/this、闭包与作用域.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/git.md",
+                "file": "src/this、闭包与作用域.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 327.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -209,31 +173,34 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1377d0052ab2fc01",
+  "active": "324cd2d83efba7fd",
   "lastOpenFiles": [
-    "前端工程化.md",
-    "打包工具.md",
-    "React.md",
-    "README.md",
     "JavaScript.md",
-    "src/git.md",
-    "Excalidraw/Git操作流程.md",
-    "src/package.json剖析.md",
-    "src/工程化体系.md",
+    "React.md",
+    "src/this、闭包与作用域.md",
+    "Excalidraw/原型&原型链.md",
     "src/包管理工具.md",
+    "前端工程化.md",
+    "src/package.json剖析.md",
+    "src/SSR渲染【使用Next.js 服务端开发指南】.md",
+    "src/SSR渲染【手动实现】.md",
+    "src/SSR渲染原理.md",
+    "src/git.md",
+    "src/babel.md",
+    "src/工程化体系.md",
+    "打包工具.md",
+    "README.md",
+    "Excalidraw/Git操作流程.md",
     "images",
     "images/packages文件.png",
     "src/AST 抽象语法树.md",
-    "src/babel.md",
     "Excalidraw/编译器的基本思路.excalidraw.md",
-    "src/SSR渲染原理.md",
     "src/React Router V6.md",
     "src/从0-1实现双端项目.md",
-    "src/SSR渲染【手动实现】.md",
-    "src/SSR渲染【使用Next.js 服务端开发指南】.md",
     "Excalidraw/Router架构设计.excalidraw.md",
     "Excalidraw/BrowserRouter.excalidraw.md",
     "Excalidraw/BrowserRouter.excalidraw.png",
@@ -243,8 +210,6 @@
     "src/Webpack.md",
     "src/Jest测试工具.md",
     "前端学习路线.canvas",
-    "src/TypeScript.md",
-    "src/虚拟DOM和Fiber.md",
     "src",
     "CSS",
     "React/src",
